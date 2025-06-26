@@ -1,4 +1,4 @@
-# 🧮 Basic Calculator
+# 🧮 basic Calculator
 
 A simple calculator application that performs basic arithmetic operations like **Addition, Subtraction, Multiplication**, and **Division**.
 
