@@ -8,7 +8,6 @@ A simple calculator application that performs basic arithmetic operations like *
 - ✅ Subtraction
 - ✅ Multiplication
 - ✅ Division
-- ✅ User-friendly input/output (Terminal-based)
 
 
 # 📸 Demo
